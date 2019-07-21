@@ -5,7 +5,7 @@ function App() {
   const [newTodo, setNewTodo] = useState("")
 
   const [todos, setTodos] = useState([
-    { name: "JS Practicing", isDone: false } , 
+    { name: "JS Practicings", isDone: false } , 
     { name: "Going Gym", isDone: false },
   ])
 
